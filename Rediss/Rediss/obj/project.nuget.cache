@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKJo5s/Xzz2IJ8sDaa2zSzZoqY4kUZrEW5yrcUwt2whyL8bcuwSAcbAqTmp1ASiuO3xBfUG8bYB2nwb1fdmQ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\Visual Studio Projects\\Rediss\\Rediss\\Redis_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
